@@ -255,8 +255,8 @@ button:focus {
     display: inline-block;
     font-weight: 600;
     background: #fff;
-    padding: 5px 20px;
-    margin-bottom: 30px;
+    padding: 0px 10px;
+    margin-bottom: 10px;
 }
 
 .mu-menu-btn {
