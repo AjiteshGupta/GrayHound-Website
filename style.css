@@ -40,7 +40,7 @@ html {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 15px;
     letter-spacing: 0.5px;
     line-height: 1.5;
@@ -75,7 +75,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 700;
     margin-top: 0;
 }
@@ -711,7 +711,7 @@ button:focus {
 
 .mu-event-timeline ul li .mu-single-event h3 {
     margin-bottom: 5px;
-    font-size: 16px;
+    font-size: 28px;
 }
 
 .mu-event-timeline ul li .mu-single-event p {
@@ -719,7 +719,7 @@ button:focus {
 }
 
 .mu-event-timeline ul li .mu-single-event span {
-    font-size: 12px;
+    font-size: 16px;
 }
 
 
