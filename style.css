@@ -40,7 +40,7 @@ html {
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 15px;
     letter-spacing: 0.5px;
     line-height: 1.5;
@@ -75,7 +75,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 700;
     margin-top: 0;
 }
@@ -254,9 +254,9 @@ button:focus {
     font-family: 'Montserrat', sans-serif;
     display: inline-block;
     font-weight: 600;
-    background: #fff;
-    padding: 0px 0px 0px 2px;
-    margin-bottom: 1px;
+    background: rgba(255, 255, 255, 0);
+    padding: 0px 0px 0px 0px;
+    margin-bottom: 0px;
 }
 
 .mu-menu-btn {
