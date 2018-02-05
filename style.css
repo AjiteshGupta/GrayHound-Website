@@ -225,7 +225,7 @@ button:focus {
 /*--------------------*/
 
 #mu-hero {
-    background-image: url("assets/images/head-featured-bg.jpg");
+    background-image: url("assets/images/newbg.png");
     display: inline;
     float: left;
     width: 100%;
@@ -238,7 +238,7 @@ button:focus {
 .mu-hero-overlay {
     display: inline;
     float: left;
-    opacity: 0.94;
+    opacity: 0.8;
     width: 100%;
 }
 
@@ -298,6 +298,7 @@ button:focus {
 
 .mu-hero-featured-content h1 {
     font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
     color: #fff;
     font-weight: 300;
     margin-bottom: 15px;
