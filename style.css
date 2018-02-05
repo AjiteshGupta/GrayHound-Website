@@ -284,14 +284,14 @@ button:focus {
 .mu-hero-featured-area {
     display: inline;
     float: left;
-    padding: 60px 0 150px;
+    padding: 6px 0 50px;
     width: 100%;
 }
 
 .mu-hero-featured-content {
     display: inline;
     float: right;
-    margin-top: 50px;
+    margin-top: 5px;
     text-align: center;
     width: 100%;
 }
@@ -312,7 +312,7 @@ button:focus {
 
 .mu-event-date-line {
     background-color: #fff;
-    color: #333;
+    color: #220722;
     padding: 5px 10px;
     display: inline-block;
     margin-top: 10px;
