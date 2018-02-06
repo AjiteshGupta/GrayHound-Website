@@ -604,7 +604,7 @@ button:focus {
 
 .mu-schedule-menu li a {
     border-radius: 0;
-    margin: 0 10px;
+    /*margin: 0 10px;*/
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     transition: all 0.5s;
