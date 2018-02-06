@@ -1,4 +1,3 @@
-
 /* Table of Content
 ==================================================
 #BASIC TYPOGRAPHY
@@ -38,6 +37,7 @@ body {
     letter-spacing: 0.5px;
     line-height: 1.5;
     color: #1c1b1b;
+    /* color: #270722; */
 }
 
 ul {
